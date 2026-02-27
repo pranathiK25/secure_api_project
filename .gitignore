@@ -1,0 +1,10 @@
+# Backend
+secureapi_backend/node_modules/
+secureapi_backend/.env
+
+# Frontend
+secureapi_frontend/node_modules/
+
+# General
+node_modules/
+.env
